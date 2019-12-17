@@ -1,9 +1,9 @@
 package tests;
 
 public class login {
-    public static void main(String[] args) {
-
+    public static void main(String[] args) {     
         System.out.println("User login");
+        //second variant from github
 
     }
 
